@@ -1,6 +1,7 @@
 ---
 title: "Meeting"
 date: 2023-01-07T16:21:29Z
+url: "/mediation/"
 ---
 
 ### List Google Meeting URL
@@ -14,3 +15,4 @@ date: 2023-01-07T16:21:29Z
 | Open Forum | [mic-seuy-dmf](https://meet.google.com/mic-seuy-dmf) |
 | Shermin    | [aeq-fzgg-pws](https://meet.google.com/aeq-fzgg-pws) |
 | Sujit      | [fcg-qgus-gqm](https://meet.google.com/fcg-qgus-gqm) |
+
