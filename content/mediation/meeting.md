@@ -1,7 +1,6 @@
 ---
 title: "Meeting"
 date: 2023-01-07T16:21:29Z
-url: "/mediation/"
 ---
 
 ### List Google Meeting URL
