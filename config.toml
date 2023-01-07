@@ -1,4 +1,4 @@
-baseURL = 'https://macsymwang.github.io/hugo'
+baseURL = 'https://macsymwang.github.io/hugo/'
 languageCode = 'en-us'
 title = "Hugo Whisper Theme"
 theme = "hugo-whisper-theme"
@@ -22,8 +22,8 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Posts"
+    url = "/posts/"
     weight = 2
 
 [params]
