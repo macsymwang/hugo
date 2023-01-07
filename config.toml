@@ -2,7 +2,6 @@ baseURL = 'https://macsymwang.github.io/hugo'
 languageCode = 'en-us'
 title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
-themesdir = "../.."
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
