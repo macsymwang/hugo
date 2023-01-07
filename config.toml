@@ -36,7 +36,7 @@ weight = 10
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> Mediation"
-url = "mediation"
+url = "/pages/mediation"
 weight = 11
 
 [[Languages.en.menu.shortcuts]]
