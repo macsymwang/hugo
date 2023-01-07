@@ -1,5 +1,5 @@
 baseURL = 'https://macsymwang.github.io/hugo/'
 languageCode = 'en-us'
 title = "Personal Digital Garden"
-theme = "digitalgarden"
+theme = "ananke"
 
