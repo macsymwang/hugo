@@ -25,7 +25,7 @@ home = [ "HTML", "RSS", "JSON"]
 title = "Documentation for Hugo Learn Theme"
 weight = 1
 languageName = "English"
-landingPageURL = "/en"
+landingPageURL = ""
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
